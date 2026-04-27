@@ -1,4 +1,4 @@
-Superstore Sales Dashboard - Power BI Analysis
+# Superstore Sales Dashboard - Power BI Analysis
 
 📊 Project Overview
 
@@ -28,6 +28,7 @@ Power BI Desktop: Data modeling, DAX measures, and Visualization.
 
 Power Query: Data cleaning and transformation.
 
+
 Excel: Source data format.
 
 📂 How to View
@@ -36,6 +37,6 @@ Download the .pbix file from this repository.
 
 Open it using Power BI Desktop.
 
-View the dashboard_preview.png folder for a quick look at the dashboard layout.
-
 Created as part of my Data Analytics learning journey.
+View the dashboard_preview.png<img width="1183" height="664" alt="image" src="https://github.com/user-attachments/assets/b271563f-8577-4532-82aa-4a6e271c0ebd" /> folder for a quick look at the dashboard layout.
+
