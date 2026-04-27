@@ -38,5 +38,7 @@ Download the .pbix file from this repository.
 Open it using Power BI Desktop.
 
 Created as part of my Data Analytics learning journey.
-View the dashboard_preview.png<img width="1183" height="664" alt="image" src="https://github.com/user-attachments/assets/b271563f-8577-4532-82aa-4a6e271c0ebd" /> folder for a quick look at the dashboard layout.
 
+View the dashboard layout. 
+
+<img width="1183" height="664" alt="image" src="https://github.com/user-attachments/assets/b271563f-8577-4532-82aa-4a6e271c0ebd" /> 
