@@ -41,4 +41,4 @@ Created as part of my Data Analytics learning journey.
 
 View the dashboard layout. 
 
-<img width="1183" height="664" alt="image" src="https://github.com/user-attachments/assets/b271563f-8577-4532-82aa-4a6e271c0ebd" /> 
+![Superstore_dashboard.png]
