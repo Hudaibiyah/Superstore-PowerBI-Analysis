@@ -40,5 +40,6 @@ Open it using Power BI Desktop.
 Created as part of my Data Analytics learning journey.
 
 View the dashboard layout. 
+<img width="1190" height="667" alt="Superstore_dashboard" src="https://github.com/user-attachments/assets/40207087-d8b0-46a2-851d-cbdbbcb5a33d" />
 
-![Superstore_dashboard.png]
+
